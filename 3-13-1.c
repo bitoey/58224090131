@@ -16,4 +16,9 @@ void main()
 	
 	short int number2 = 32764;
 	printf("number2=%d",number2);
+	
+	char subject[12] ="Programming";
+	char nick[4] ="com" ;
+	char nick_1[4] = {'C','o','m','\0'};
+	char name[] = "Jirasak";
 }
